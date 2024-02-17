@@ -3,6 +3,6 @@ l2 = input()
 a = set(l1)
 b = set(l2)
 if a == b:
-    print('Yes')
+    print('YES')
 else:
-    print('No')
+    print('NO')
